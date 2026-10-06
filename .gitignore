@@ -1,0 +1,45 @@
+# Project-specific
+carts.json                         # NFC tag mappings (device-specific)
+*.service                          # Systemd service files (device-specific paths)
+*.bak                              # Backup files
+.last_variant                      # Splash variant tracker
+staged/                            # Work-in-progress files
+downloads/                         # Downloaded cores and BIOS files
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+*.swp
+*.swo
+*~
+.env
+.env.local
+
+# Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Sensitive
+.ssh/
+keys/
+secrets/
+*.key
+*.pem
+
+# Large binaries
+*.zip
+*.tar.gz
+*.7z
+*.so
+*.a
+*.o
+
+# Ignore ROM files (these are usually in a separate share)
+roms/
+cores/

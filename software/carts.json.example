@@ -1,0 +1,12 @@
+{
+  "04A1B2C3D4E580": {
+    "name": "Example SNES Game",
+    "system": "snes",
+    "rom": "Example Game.sfc"
+  },
+  "04F0E1D2C3B480": {
+    "name": "Example PS1 Game",
+    "system": "psx",
+    "rom": "Example Game.chd"
+  }
+}
