@@ -2,6 +2,7 @@
 A Raspberry Pi 3 retro console that plays games from NFC-tagged 3D-printed cartridges. Seat a cart on the PN532 reader and the daemon shows the game name and launches RetroArch. Pull the cart and the game closes, returning to the spinning HUEY splash.
 
 **Current Status:** Actively developed and tested on Raspberry Pi 3 Model B Rev 1.2, Raspberry Pi OS Trixie (Debian 13) 64-bit.
+
 **Word of warning** - This is a claude assisted personal project.  It is just for fun and I have done this to see what I could push myself to create on my own.  All errors and terrible slop coding are a learning experience and comments and assists are appreciated for improvement.
 
 ## Features
