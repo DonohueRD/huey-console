@@ -83,12 +83,12 @@ See `hardware/huey_walnut_v1/BUILD_GUIDE_WALNUT.md` for assembly instructions.
 
 ## Games & ROM Organization
 
-ROMs are stored on a network share mounted at `/mnt/games/Games/MEGA FOLDER OF ROMS/Extracted folders/`:
-- `Nintendo - NES/` (275 games)
-- `Nintendo - SNES/` (325 games)
-- `Sega - Genesis/` (175 games)
-- `Sony - PlayStation/` (215 games via `.m3u` playlists)
-- `Nintendo - Game Boy Advance/` (162 games)
+ROMs are stored on a network share mounted at `/mnt/YOUR_MOUNT_HERE/`:
+- `Nintendo - NES/` 
+- `Nintendo - SNES/` 
+- `Sega - Genesis/` (
+- `Sony - PlayStation/` 
+- `Nintendo - Game Boy Advance/`
 - And more: N64, Gamecube, PS2, Game Boy, Game Boy Color, ROM Hacks
 
 ## Troubleshooting
