@@ -23,6 +23,10 @@ A Raspberry Pi 3 retro console that plays games from NFC-tagged 3D-printed cartr
 - **Enclosure:** 3D-printed wood-textured case (PLA + PETG)
 - **Printer:** Bambu P1S
 
+
+## Back Storu
+This whole project started with the idea "how can I recreate the classic feel of physically picking and inserting a game into a console, while also making it as simple and user friendly as possible".  I wanted people who have never used an emulator before or have no concept of loading and selecting a rom to play, to be able to just look at a physical object and place it in a slot, like the console of yesteryear.  Kids and the tech illiterate should understand that.  The idea then is to have everything taken care of and packaged and full constructed so all the user has to do is put in a cartridge and play.
+
 ## Quick Start
 
 ### On the Pi
@@ -116,11 +120,7 @@ ROMs are stored on a network share mounted at `/mnt/YOUR_MOUNT_HERE/`:
 
 ## To-Do
 
-- [ ] Register remaining PS1 carts
-- [ ] Extract GBA and GB/GBC into proper folder structure
-- [ ] Print and assemble full walnut enclosure
-- [ ] Set up Moonlight streaming for N64/GameCube/PS2
-- [ ] Custom panel mounts for HDMI, USB, power, network
+View Feature tracker
 
 ## License
 
